@@ -1,4 +1,4 @@
-# Ferns and Petals Sales Analysis
+# Ferns N Petals(fnp) Sales Analysis
 
 ## Overview
 
